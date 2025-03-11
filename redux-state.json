@@ -1,0 +1,1762 @@
+{
+  "deckReducer": {
+    "decks": [
+      {
+        "id": "wo4tgyj1iw",
+        "name": "Svenska",
+        "iconName": "Hoem",
+        "cards": [
+          {
+            "id": "qcshgjuyz7a",
+            "front": {
+              "word": "Finns"
+            },
+            "back": {
+              "translation": "Existe",
+              "sound": "Fiiinns",
+              "detail": "Soho num sabado de noite na fila do banheiro"
+            }
+          },
+          {
+            "id": "witv7ci1yo",
+            "front": {
+              "word": "ska"
+            },
+            "back": {
+              "translation": "vai",
+              "sound": "iscóa",
+              "detail": ""
+            }
+          },
+          {
+            "id": "1itmpcqn9hr",
+            "front": {
+              "word": "vet"
+            },
+            "back": {
+              "translation": "sabe",
+              "sound": "viet",
+              "detail": ""
+            }
+          },
+          {
+            "id": "5f0g0hu3wre",
+            "front": {
+              "word": "detta"
+            },
+            "back": {
+              "translation": "esse",
+              "sound": "déta",
+              "detail": ""
+            }
+          },
+          {
+            "id": "qj6cpziz0c",
+            "front": {
+              "word": "man"
+            },
+            "back": {
+              "translation": "\"vc\"",
+              "sound": "man",
+              "detail": "Vi no contexto: ... man får göra... (vc deve/devia fazer)"
+            }
+          },
+          {
+            "id": "nuju0ba417j",
+            "front": {
+              "word": "göra"
+            },
+            "back": {
+              "translation": "fazer",
+              "sound": "ióra",
+              "detail": ""
+            }
+          },
+          {
+            "id": "cr51sthdcp",
+            "front": {
+              "word": "tog"
+            },
+            "back": {
+              "translation": "pegou",
+              "sound": "tôgui",
+              "detail": ""
+            }
+          },
+          {
+            "id": "kup801kxsk",
+            "front": {
+              "word": "mig"
+            },
+            "back": {
+              "translation": "meu",
+              "sound": "mei",
+              "detail": ""
+            }
+          },
+          {
+            "id": "lymucvj0eui",
+            "front": {
+              "word": "friheten"
+            },
+            "back": {
+              "translation": "liberdade",
+              "sound": "friehiéten",
+              "detail": ""
+            }
+          },
+          {
+            "id": "9i5s06jqio8",
+            "front": {
+              "word": "att"
+            },
+            "back": {
+              "translation": "para",
+              "sound": "ât (tê seco sem vogal)",
+              "detail": ""
+            }
+          },
+          {
+            "id": "35nwpc0ujiy",
+            "front": {
+              "word": "så"
+            },
+            "back": {
+              "translation": "então",
+              "sound": "soa",
+              "detail": ""
+            }
+          },
+          {
+            "id": "kf21t2e22rb",
+            "front": {
+              "word": "ändå"
+            },
+            "back": {
+              "translation": "ainda",
+              "sound": "eendô",
+              "detail": ""
+            }
+          },
+          {
+            "id": "9emw3ivmmqe",
+            "front": {
+              "word": "kommer"
+            },
+            "back": {
+              "translation": "chegando",
+              "sound": "commér",
+              "detail": ""
+            }
+          },
+          {
+            "id": "fxzi7xiqole",
+            "front": {
+              "word": "bli"
+            },
+            "back": {
+              "translation": "ser",
+              "sound": "blii",
+              "detail": ""
+            }
+          },
+          {
+            "id": "cyo00z8jc6",
+            "front": {
+              "word": "utsparkad"
+            },
+            "back": {
+              "translation": "expulso",
+              "sound": "utisparcoad",
+              "detail": ""
+            }
+          },
+          {
+            "id": "269mmrqnf76",
+            "front": {
+              "word": "mitt"
+            },
+            "back": {
+              "translation": "meu",
+              "sound": "miiti",
+              "detail": ""
+            }
+          },
+          {
+            "id": "ce5055cits5",
+            "front": {
+              "word": "då"
+            },
+            "back": {
+              "translation": "quando",
+              "sound": "doa",
+              "detail": ""
+            }
+          },
+          {
+            "id": "w4cn0elb2fj",
+            "front": {
+              "word": "över"
+            },
+            "back": {
+              "translation": "sobre",
+              "sound": "ô-ver (\"o\" de quem tá com nojo)",
+              "detail": ""
+            }
+          },
+          {
+            "id": "pzi0g8f0tv9",
+            "front": {
+              "word": "får"
+            },
+            "back": {
+              "translation": "poderia",
+              "sound": "foor",
+              "detail": ""
+            }
+          },
+          {
+            "id": "ldjrtgkx2",
+            "front": {
+              "word": "enligt"
+            },
+            "back": {
+              "translation": "de acordo com ",
+              "sound": "einliit",
+              "detail": ""
+            }
+          },
+          {
+            "id": "1191g9isbpj8",
+            "front": {
+              "word": "utsago"
+            },
+            "back": {
+              "translation": "declaração",
+              "sound": "utisaago",
+              "detail": ""
+            }
+          },
+          {
+            "id": "cejnhg2jg3q",
+            "front": {
+              "word": "stryka"
+            },
+            "back": {
+              "translation": "ferro",
+              "sound": "striica",
+              "detail": ""
+            }
+          },
+          {
+            "id": "sk6rnb9ia2b",
+            "front": {
+              "word": "skuggorna"
+            },
+            "back": {
+              "translation": "as sombras",
+              "sound": "iskug-gorna",
+              "detail": ""
+            }
+          },
+          {
+            "id": "jcg9uemoi78",
+            "front": {
+              "word": "känner"
+            },
+            "back": {
+              "translation": "sentir",
+              "sound": "chaener",
+              "detail": ""
+            }
+          },
+          {
+            "id": "swy6p3thm1",
+            "front": {
+              "word": "det"
+            },
+            "back": {
+              "translation": "o",
+              "sound": "déét",
+              "detail": ""
+            }
+          },
+          {
+            "id": "41ws5fubmp5",
+            "front": {
+              "word": "trevligt"
+            },
+            "back": {
+              "translation": "legal",
+              "sound": "trieviliti",
+              "detail": ""
+            }
+          },
+          {
+            "id": "ne33sllqvbt",
+            "front": {
+              "word": "ge"
+            },
+            "back": {
+              "translation": "dar",
+              "sound": "iie",
+              "detail": ""
+            }
+          },
+          {
+            "id": "06rfmpta71su",
+            "front": {
+              "word": "de"
+            },
+            "back": {
+              "translation": "o",
+              "sound": "dom",
+              "detail": ""
+            }
+          },
+          {
+            "id": "ehvk6wvyhah",
+            "front": {
+              "word": "själva"
+            },
+            "back": {
+              "translation": "eles mesmos",
+              "sound": "huelva",
+              "detail": "tipo themselves "
+            }
+          },
+          {
+            "id": "rcxhtv26lwq",
+            "front": {
+              "word": "nyinflyttad"
+            },
+            "back": {
+              "translation": "recém mudado",
+              "sound": "ni infli tad",
+              "detail": ""
+            }
+          },
+          {
+            "id": "hmcl0kxl6om",
+            "front": {
+              "word": "vänner"
+            },
+            "back": {
+              "translation": "amigos",
+              "sound": "vaener",
+              "detail": ""
+            }
+          },
+          {
+            "id": "s9zawjmu8p",
+            "front": {
+              "word": "plats"
+            },
+            "back": {
+              "translation": "lugar",
+              "sound": "platics",
+              "detail": ""
+            }
+          },
+          {
+            "id": "5o39g39cp74",
+            "front": {
+              "word": "dålig"
+            },
+            "back": {
+              "translation": "pobre",
+              "sound": "dóóligui",
+              "detail": ""
+            }
+          },
+          {
+            "id": "rcgy20z7zx",
+            "front": {
+              "word": "koll"
+            },
+            "back": {
+              "translation": "verificar",
+              "sound": "kóll",
+              "detail": ""
+            }
+          },
+          {
+            "id": "7gppd07qxn9",
+            "front": {
+              "word": "allmänhet"
+            },
+            "back": {
+              "translation": "público",
+              "sound": "allmaenhiet",
+              "detail": ""
+            }
+          },
+          {
+            "id": "vlqga0502v",
+            "front": {
+              "word": "hitta"
+            },
+            "back": {
+              "translation": "encontrar",
+              "sound": "rita",
+              "detail": ""
+            }
+          },
+          {
+            "id": "v21hohmnica",
+            "front": {
+              "word": "Vill"
+            },
+            "back": {
+              "translation": "querer",
+              "sound": " viel ",
+              "detail": ""
+            }
+          },
+          {
+            "id": "kkh0b04t55j",
+            "front": {
+              "word": "något"
+            },
+            "back": {
+              "translation": "algo",
+              "sound": "nóogot",
+              "detail": ""
+            }
+          },
+          {
+            "id": "z8k9mv7sha",
+            "front": {
+              "word": "hör av dig"
+            },
+            "back": {
+              "translation": "Entre em contato",
+              "sound": "hoor aav dei",
+              "detail": ""
+            }
+          },
+          {
+            "id": "1y98dhw84zw",
+            "front": {
+              "word": "årig"
+            },
+            "back": {
+              "translation": "anos (de idade)",
+              "sound": "óórigui",
+              "detail": ""
+            }
+          },
+          {
+            "id": "vj2wzxtxi1i",
+            "front": {
+              "word": "kille"
+            },
+            "back": {
+              "translation": "cara",
+              "sound": "kiilé",
+              "detail": ""
+            }
+          },
+          {
+            "id": "vnxqhl6xopb",
+            "front": {
+              "word": "lika"
+            },
+            "back": {
+              "translation": "igual",
+              "sound": "liika",
+              "detail": ""
+            }
+          },
+          {
+            "id": "mt8ey4sv8z",
+            "front": {
+              "word": "när"
+            },
+            "back": {
+              "translation": "quando",
+              "sound": "naer",
+              "detail": ""
+            }
+          },
+          {
+            "id": "4n1s4klpgwi",
+            "front": {
+              "word": "Sökte"
+            },
+            "back": {
+              "translation": "pesquisando",
+              "sound": "sookté",
+              "detail": ""
+            }
+          },
+          {
+            "id": "c6a0524avgh",
+            "front": {
+              "word": "under"
+            },
+            "back": {
+              "translation": "durante",
+              "sound": "um dér",
+              "detail": ""
+            }
+          },
+          {
+            "id": "mf8djbz92j8",
+            "front": {
+              "word": "uppsägningstid"
+            },
+            "back": {
+              "translation": "período de aviso",
+              "sound": "upi sanins tid",
+              "detail": ""
+            }
+          },
+          {
+            "id": "bf0xizr6fqr",
+            "front": {
+              "word": "fick"
+            },
+            "back": {
+              "translation": "pegou",
+              "sound": "fiiqui",
+              "detail": ""
+            }
+          },
+          {
+            "id": "84pxvdckzwp",
+            "front": {
+              "word": "som "
+            },
+            "back": {
+              "translation": "como",
+              "sound": "somi - i cortado",
+              "detail": ""
+            }
+          },
+          {
+            "id": "azomm2gmr5u",
+            "front": {
+              "word": "arbetslös"
+            },
+            "back": {
+              "translation": "desempregado",
+              "sound": "arbietslossi",
+              "detail": ""
+            }
+          },
+          {
+            "id": "2ejzlmfj3ek",
+            "front": {
+              "word": "mest"
+            },
+            "back": {
+              "translation": "maioria",
+              "sound": "mést",
+              "detail": ""
+            }
+          },
+          {
+            "id": "sk150oc8kp",
+            "front": {
+              "word": "dela"
+            },
+            "back": {
+              "translation": "compartilhar",
+              "sound": "diela",
+              "detail": ""
+            }
+          },
+          {
+            "id": "xg8x4kett7",
+            "front": {
+              "word": "positivt"
+            },
+            "back": {
+              "translation": "positivamente",
+              "sound": "pôositivt",
+              "detail": ""
+            }
+          },
+          {
+            "id": "eqv18jgb1r",
+            "front": {
+              "word": "stor "
+            },
+            "back": {
+              "translation": "ótimo",
+              "sound": "stôôr",
+              "detail": ""
+            }
+          },
+          {
+            "id": "3tefd6fzso",
+            "front": {
+              "word": "ångest"
+            },
+            "back": {
+              "translation": "ansiedade",
+              "sound": "oanhést",
+              "detail": ""
+            }
+          },
+          {
+            "id": "zbav065q8xi",
+            "front": {
+              "word": "släppt"
+            },
+            "back": {
+              "translation": "lançado",
+              "sound": "sléépt",
+              "detail": ""
+            }
+          },
+          {
+            "id": "s3j2m2i0xgb",
+            "front": {
+              "word": "blev "
+            },
+            "back": {
+              "translation": "tornou-se",
+              "sound": "bliev (o vê quase não sai)",
+              "detail": ""
+            }
+          },
+          {
+            "id": "nyexd2ubgbf",
+            "front": {
+              "word": "varslad "
+            },
+            "back": {
+              "translation": "notificado",
+              "sound": "varxilad",
+              "detail": ""
+            }
+          },
+          {
+            "id": "5jakaeobksv",
+            "front": {
+              "word": "sedan"
+            },
+            "back": {
+              "translation": "então",
+              "sound": "siedan",
+              "detail": ""
+            }
+          },
+          {
+            "id": "kan2mdfwy7d",
+            "front": {
+              "word": "va "
+            },
+            "back": {
+              "translation": "o que",
+              "sound": "vaa",
+              "detail": ""
+            }
+          },
+          {
+            "id": "6vn8im93cg5",
+            "front": {
+              "word": "dumt "
+            },
+            "back": {
+              "translation": "estúpido",
+              "sound": "dumet",
+              "detail": ""
+            }
+          },
+          {
+            "id": "mz1pmifdi5i",
+            "front": {
+              "word": "nog "
+            },
+            "back": {
+              "translation": "suficiente",
+              "sound": "noug",
+              "detail": ""
+            }
+          },
+          {
+            "id": "2ximdr1fri7",
+            "front": {
+              "word": "a-kassa"
+            },
+            "back": {
+              "translation": "fundo de seguro desemprego",
+              "sound": "óa-kassa",
+              "detail": ""
+            }
+          },
+          {
+            "id": "ukc1nlmugrg",
+            "front": {
+              "word": "inkomstförsäkring"
+            },
+            "back": {
+              "translation": "seguro de renda",
+              "sound": "in comisti for xakirin",
+              "detail": ""
+            }
+          },
+          {
+            "id": "dhfivse3doi",
+            "front": {
+              "word": "Har  "
+            },
+            "back": {
+              "translation": "tem",
+              "sound": "hoar",
+              "detail": ""
+            }
+          },
+          {
+            "id": "ikcpjweggw",
+            "front": {
+              "word": "sökt  "
+            },
+            "back": {
+              "translation": "pesquisado ",
+              "sound": "sookit",
+              "detail": ""
+            }
+          },
+          {
+            "id": "oyef2nyg6oe",
+            "front": {
+              "word": "både"
+            },
+            "back": {
+              "translation": "ambos",
+              "sound": "boade",
+              "detail": ""
+            }
+          },
+          {
+            "id": "92o7eo542dm",
+            "front": {
+              "word": "gick"
+            },
+            "back": {
+              "translation": "foi",
+              "sound": "iiqui",
+              "detail": ""
+            }
+          },
+          {
+            "id": "beoy1p8stqk",
+            "front": {
+              "word": "skrev "
+            },
+            "back": {
+              "translation": "escreveu",
+              "sound": "iskriév",
+              "detail": ""
+            }
+          },
+          {
+            "id": "yn0amjj8ntp",
+            "front": {
+              "word": "abf Arbetarnas Bildningsförbund "
+            },
+            "back": {
+              "translation": "Associção educacional dos trabalhadores",
+              "sound": "arbietarnas bildninhis fórbund",
+              "detail": ""
+            }
+          },
+          {
+            "id": "9layooq6etc",
+            "front": {
+              "word": "igår"
+            },
+            "back": {
+              "translation": "ontem",
+              "sound": "igoor",
+              "detail": ""
+            }
+          },
+          {
+            "id": "llxcr1x7ys",
+            "front": {
+              "word": "fick"
+            },
+            "back": {
+              "translation": "pegou",
+              "sound": "fiick",
+              "detail": ""
+            }
+          },
+          {
+            "id": "3jzyo8udz23",
+            "front": {
+              "word": "samtal  "
+            },
+            "back": {
+              "translation": "chamar",
+              "sound": "samitall",
+              "detail": "pode ser ligação tbm"
+            }
+          },
+          {
+            "id": "ix84sjqpx5g",
+            "front": {
+              "word": "han "
+            },
+            "back": {
+              "translation": "ele",
+              "sound": "rã m",
+              "detail": ""
+            }
+          },
+          {
+            "id": "7l9u9821a8",
+            "front": {
+              "word": "erbjuder "
+            },
+            "back": {
+              "translation": "ofertas",
+              "sound": "iérbiuder",
+              "detail": ""
+            }
+          },
+          {
+            "id": "uc4hnazq0il",
+            "front": {
+              "word": "tjänst"
+            },
+            "back": {
+              "translation": "serviço",
+              "sound": "xieanst ",
+              "detail": ""
+            }
+          },
+          {
+            "id": "yimserikld",
+            "front": {
+              "word": "bransch"
+            },
+            "back": {
+              "translation": "indústria",
+              "sound": "bran xi",
+              "detail": "pode ser setor"
+            }
+          },
+          {
+            "id": "p4d91x5hrl",
+            "front": {
+              "word": "svårt "
+            },
+            "back": {
+              "translation": "difícil",
+              "sound": "isvoart",
+              "detail": ""
+            }
+          },
+          {
+            "id": "amubtkdv4ca",
+            "front": {
+              "word": "spännande "
+            },
+            "back": {
+              "translation": "excitante",
+              "sound": "speanandé",
+              "detail": ""
+            }
+          },
+          {
+            "id": "427sb39v79s",
+            "front": {
+              "word": "lära"
+            },
+            "back": {
+              "translation": "ensinar",
+              "sound": "léara",
+              "detail": ""
+            }
+          }
+        ]
+      }
+    ],
+    "selectedDeck": {
+      "id": "wo4tgyj1iw",
+      "name": "Svenska",
+      "iconName": "Hoem",
+      "cards": [
+        {
+          "id": "qcshgjuyz7a",
+          "front": {
+            "word": "Finns"
+          },
+          "back": {
+            "translation": "Existe",
+            "sound": "Fiiinns",
+            "detail": "Soho num sabado de noite na fila do banheiro"
+          }
+        },
+        {
+          "id": "witv7ci1yo",
+          "front": {
+            "word": "ska"
+          },
+          "back": {
+            "translation": "vai",
+            "sound": "iscóa",
+            "detail": ""
+          }
+        },
+        {
+          "id": "1itmpcqn9hr",
+          "front": {
+            "word": "vet"
+          },
+          "back": {
+            "translation": "sabe",
+            "sound": "viet",
+            "detail": ""
+          }
+        },
+        {
+          "id": "5f0g0hu3wre",
+          "front": {
+            "word": "detta"
+          },
+          "back": {
+            "translation": "esse",
+            "sound": "déta",
+            "detail": ""
+          }
+        },
+        {
+          "id": "qj6cpziz0c",
+          "front": {
+            "word": "man"
+          },
+          "back": {
+            "translation": "\"vc\"",
+            "sound": "man",
+            "detail": "Vi no contexto: ... man får göra... (vc deve/devia fazer)"
+          }
+        },
+        {
+          "id": "nuju0ba417j",
+          "front": {
+            "word": "göra"
+          },
+          "back": {
+            "translation": "fazer",
+            "sound": "ióra",
+            "detail": ""
+          }
+        },
+        {
+          "id": "cr51sthdcp",
+          "front": {
+            "word": "tog"
+          },
+          "back": {
+            "translation": "pegou",
+            "sound": "tôgui",
+            "detail": ""
+          }
+        },
+        {
+          "id": "kup801kxsk",
+          "front": {
+            "word": "mig"
+          },
+          "back": {
+            "translation": "meu",
+            "sound": "mei",
+            "detail": ""
+          }
+        },
+        {
+          "id": "lymucvj0eui",
+          "front": {
+            "word": "friheten"
+          },
+          "back": {
+            "translation": "liberdade",
+            "sound": "friehiéten",
+            "detail": ""
+          }
+        },
+        {
+          "id": "9i5s06jqio8",
+          "front": {
+            "word": "att"
+          },
+          "back": {
+            "translation": "para",
+            "sound": "ât (tê seco sem vogal)",
+            "detail": ""
+          }
+        },
+        {
+          "id": "35nwpc0ujiy",
+          "front": {
+            "word": "så"
+          },
+          "back": {
+            "translation": "então",
+            "sound": "soa",
+            "detail": ""
+          }
+        },
+        {
+          "id": "kf21t2e22rb",
+          "front": {
+            "word": "ändå"
+          },
+          "back": {
+            "translation": "ainda",
+            "sound": "eendô",
+            "detail": ""
+          }
+        },
+        {
+          "id": "9emw3ivmmqe",
+          "front": {
+            "word": "kommer"
+          },
+          "back": {
+            "translation": "chegando",
+            "sound": "commér",
+            "detail": ""
+          }
+        },
+        {
+          "id": "fxzi7xiqole",
+          "front": {
+            "word": "bli"
+          },
+          "back": {
+            "translation": "ser",
+            "sound": "blii",
+            "detail": ""
+          }
+        },
+        {
+          "id": "cyo00z8jc6",
+          "front": {
+            "word": "utsparkad"
+          },
+          "back": {
+            "translation": "expulso",
+            "sound": "utisparcoad",
+            "detail": ""
+          }
+        },
+        {
+          "id": "269mmrqnf76",
+          "front": {
+            "word": "mitt"
+          },
+          "back": {
+            "translation": "meu",
+            "sound": "miiti",
+            "detail": ""
+          }
+        },
+        {
+          "id": "ce5055cits5",
+          "front": {
+            "word": "då"
+          },
+          "back": {
+            "translation": "quando",
+            "sound": "doa",
+            "detail": ""
+          }
+        },
+        {
+          "id": "w4cn0elb2fj",
+          "front": {
+            "word": "över"
+          },
+          "back": {
+            "translation": "sobre",
+            "sound": "ô-ver (\"o\" de quem tá com nojo)",
+            "detail": ""
+          }
+        },
+        {
+          "id": "pzi0g8f0tv9",
+          "front": {
+            "word": "får"
+          },
+          "back": {
+            "translation": "poderia",
+            "sound": "foor",
+            "detail": ""
+          }
+        },
+        {
+          "id": "ldjrtgkx2",
+          "front": {
+            "word": "enligt"
+          },
+          "back": {
+            "translation": "de acordo com ",
+            "sound": "einliit",
+            "detail": ""
+          }
+        },
+        {
+          "id": "1191g9isbpj8",
+          "front": {
+            "word": "utsago"
+          },
+          "back": {
+            "translation": "declaração",
+            "sound": "utisaago",
+            "detail": ""
+          }
+        },
+        {
+          "id": "cejnhg2jg3q",
+          "front": {
+            "word": "stryka"
+          },
+          "back": {
+            "translation": "ferro",
+            "sound": "striica",
+            "detail": ""
+          }
+        },
+        {
+          "id": "sk6rnb9ia2b",
+          "front": {
+            "word": "skuggorna"
+          },
+          "back": {
+            "translation": "as sombras",
+            "sound": "iskug-gorna",
+            "detail": ""
+          }
+        },
+        {
+          "id": "jcg9uemoi78",
+          "front": {
+            "word": "känner"
+          },
+          "back": {
+            "translation": "sentir",
+            "sound": "chaener",
+            "detail": ""
+          }
+        },
+        {
+          "id": "swy6p3thm1",
+          "front": {
+            "word": "det"
+          },
+          "back": {
+            "translation": "o",
+            "sound": "déét",
+            "detail": ""
+          }
+        },
+        {
+          "id": "41ws5fubmp5",
+          "front": {
+            "word": "trevligt"
+          },
+          "back": {
+            "translation": "legal",
+            "sound": "trieviliti",
+            "detail": ""
+          }
+        },
+        {
+          "id": "ne33sllqvbt",
+          "front": {
+            "word": "ge"
+          },
+          "back": {
+            "translation": "dar",
+            "sound": "iie",
+            "detail": ""
+          }
+        },
+        {
+          "id": "06rfmpta71su",
+          "front": {
+            "word": "de"
+          },
+          "back": {
+            "translation": "o",
+            "sound": "dom",
+            "detail": ""
+          }
+        },
+        {
+          "id": "ehvk6wvyhah",
+          "front": {
+            "word": "själva"
+          },
+          "back": {
+            "translation": "eles mesmos",
+            "sound": "huelva",
+            "detail": "tipo themselves "
+          }
+        },
+        {
+          "id": "rcxhtv26lwq",
+          "front": {
+            "word": "nyinflyttad"
+          },
+          "back": {
+            "translation": "recém mudado",
+            "sound": "ni infli tad",
+            "detail": ""
+          }
+        },
+        {
+          "id": "hmcl0kxl6om",
+          "front": {
+            "word": "vänner"
+          },
+          "back": {
+            "translation": "amigos",
+            "sound": "vaener",
+            "detail": ""
+          }
+        },
+        {
+          "id": "s9zawjmu8p",
+          "front": {
+            "word": "plats"
+          },
+          "back": {
+            "translation": "lugar",
+            "sound": "platics",
+            "detail": ""
+          }
+        },
+        {
+          "id": "5o39g39cp74",
+          "front": {
+            "word": "dålig"
+          },
+          "back": {
+            "translation": "pobre",
+            "sound": "dóóligui",
+            "detail": ""
+          }
+        },
+        {
+          "id": "rcgy20z7zx",
+          "front": {
+            "word": "koll"
+          },
+          "back": {
+            "translation": "verificar",
+            "sound": "kóll",
+            "detail": ""
+          }
+        },
+        {
+          "id": "7gppd07qxn9",
+          "front": {
+            "word": "allmänhet"
+          },
+          "back": {
+            "translation": "público",
+            "sound": "allmaenhiet",
+            "detail": ""
+          }
+        },
+        {
+          "id": "vlqga0502v",
+          "front": {
+            "word": "hitta"
+          },
+          "back": {
+            "translation": "encontrar",
+            "sound": "rita",
+            "detail": ""
+          }
+        },
+        {
+          "id": "v21hohmnica",
+          "front": {
+            "word": "Vill"
+          },
+          "back": {
+            "translation": "querer",
+            "sound": " viel ",
+            "detail": ""
+          }
+        },
+        {
+          "id": "kkh0b04t55j",
+          "front": {
+            "word": "något"
+          },
+          "back": {
+            "translation": "algo",
+            "sound": "nóogot",
+            "detail": ""
+          }
+        },
+        {
+          "id": "z8k9mv7sha",
+          "front": {
+            "word": "hör av dig"
+          },
+          "back": {
+            "translation": "Entre em contato",
+            "sound": "hoor aav dei",
+            "detail": ""
+          }
+        },
+        {
+          "id": "1y98dhw84zw",
+          "front": {
+            "word": "årig"
+          },
+          "back": {
+            "translation": "anos (de idade)",
+            "sound": "óórigui",
+            "detail": ""
+          }
+        },
+        {
+          "id": "vj2wzxtxi1i",
+          "front": {
+            "word": "kille"
+          },
+          "back": {
+            "translation": "cara",
+            "sound": "kiilé",
+            "detail": ""
+          }
+        },
+        {
+          "id": "vnxqhl6xopb",
+          "front": {
+            "word": "lika"
+          },
+          "back": {
+            "translation": "igual",
+            "sound": "liika",
+            "detail": ""
+          }
+        },
+        {
+          "id": "mt8ey4sv8z",
+          "front": {
+            "word": "när"
+          },
+          "back": {
+            "translation": "quando",
+            "sound": "naer",
+            "detail": ""
+          }
+        },
+        {
+          "id": "4n1s4klpgwi",
+          "front": {
+            "word": "Sökte"
+          },
+          "back": {
+            "translation": "pesquisando",
+            "sound": "sookté",
+            "detail": ""
+          }
+        },
+        {
+          "id": "c6a0524avgh",
+          "front": {
+            "word": "under"
+          },
+          "back": {
+            "translation": "durante",
+            "sound": "um dér",
+            "detail": ""
+          }
+        },
+        {
+          "id": "mf8djbz92j8",
+          "front": {
+            "word": "uppsägningstid"
+          },
+          "back": {
+            "translation": "período de aviso",
+            "sound": "upi sanins tid",
+            "detail": ""
+          }
+        },
+        {
+          "id": "bf0xizr6fqr",
+          "front": {
+            "word": "fick"
+          },
+          "back": {
+            "translation": "pegou",
+            "sound": "fiiqui",
+            "detail": ""
+          }
+        },
+        {
+          "id": "84pxvdckzwp",
+          "front": {
+            "word": "som "
+          },
+          "back": {
+            "translation": "como",
+            "sound": "somi - i cortado",
+            "detail": ""
+          }
+        },
+        {
+          "id": "azomm2gmr5u",
+          "front": {
+            "word": "arbetslös"
+          },
+          "back": {
+            "translation": "desempregado",
+            "sound": "arbietslossi",
+            "detail": ""
+          }
+        },
+        {
+          "id": "2ejzlmfj3ek",
+          "front": {
+            "word": "mest"
+          },
+          "back": {
+            "translation": "maioria",
+            "sound": "mést",
+            "detail": ""
+          }
+        },
+        {
+          "id": "sk150oc8kp",
+          "front": {
+            "word": "dela"
+          },
+          "back": {
+            "translation": "compartilhar",
+            "sound": "diela",
+            "detail": ""
+          }
+        },
+        {
+          "id": "xg8x4kett7",
+          "front": {
+            "word": "positivt"
+          },
+          "back": {
+            "translation": "positivamente",
+            "sound": "pôositivt",
+            "detail": ""
+          }
+        },
+        {
+          "id": "eqv18jgb1r",
+          "front": {
+            "word": "stor "
+          },
+          "back": {
+            "translation": "ótimo",
+            "sound": "stôôr",
+            "detail": ""
+          }
+        },
+        {
+          "id": "3tefd6fzso",
+          "front": {
+            "word": "ångest"
+          },
+          "back": {
+            "translation": "ansiedade",
+            "sound": "oanhést",
+            "detail": ""
+          }
+        },
+        {
+          "id": "zbav065q8xi",
+          "front": {
+            "word": "släppt"
+          },
+          "back": {
+            "translation": "lançado",
+            "sound": "sléépt",
+            "detail": ""
+          }
+        },
+        {
+          "id": "s3j2m2i0xgb",
+          "front": {
+            "word": "blev "
+          },
+          "back": {
+            "translation": "tornou-se",
+            "sound": "bliev (o vê quase não sai)",
+            "detail": ""
+          }
+        },
+        {
+          "id": "nyexd2ubgbf",
+          "front": {
+            "word": "varslad "
+          },
+          "back": {
+            "translation": "notificado",
+            "sound": "varxilad",
+            "detail": ""
+          }
+        },
+        {
+          "id": "5jakaeobksv",
+          "front": {
+            "word": "sedan"
+          },
+          "back": {
+            "translation": "então",
+            "sound": "siedan",
+            "detail": ""
+          }
+        },
+        {
+          "id": "kan2mdfwy7d",
+          "front": {
+            "word": "va "
+          },
+          "back": {
+            "translation": "o que",
+            "sound": "vaa",
+            "detail": ""
+          }
+        },
+        {
+          "id": "6vn8im93cg5",
+          "front": {
+            "word": "dumt "
+          },
+          "back": {
+            "translation": "estúpido",
+            "sound": "dumet",
+            "detail": ""
+          }
+        },
+        {
+          "id": "mz1pmifdi5i",
+          "front": {
+            "word": "nog "
+          },
+          "back": {
+            "translation": "suficiente",
+            "sound": "noug",
+            "detail": ""
+          }
+        },
+        {
+          "id": "2ximdr1fri7",
+          "front": {
+            "word": "a-kassa"
+          },
+          "back": {
+            "translation": "fundo de seguro desemprego",
+            "sound": "óa-kassa",
+            "detail": ""
+          }
+        },
+        {
+          "id": "ukc1nlmugrg",
+          "front": {
+            "word": "inkomstförsäkring"
+          },
+          "back": {
+            "translation": "seguro de renda",
+            "sound": "in comisti for xakirin",
+            "detail": ""
+          }
+        },
+        {
+          "id": "dhfivse3doi",
+          "front": {
+            "word": "Har  "
+          },
+          "back": {
+            "translation": "tem",
+            "sound": "hoar",
+            "detail": ""
+          }
+        },
+        {
+          "id": "ikcpjweggw",
+          "front": {
+            "word": "sökt  "
+          },
+          "back": {
+            "translation": "pesquisado ",
+            "sound": "sookit",
+            "detail": ""
+          }
+        },
+        {
+          "id": "oyef2nyg6oe",
+          "front": {
+            "word": "både"
+          },
+          "back": {
+            "translation": "ambos",
+            "sound": "boade",
+            "detail": ""
+          }
+        },
+        {
+          "id": "92o7eo542dm",
+          "front": {
+            "word": "gick"
+          },
+          "back": {
+            "translation": "foi",
+            "sound": "iiqui",
+            "detail": ""
+          }
+        },
+        {
+          "id": "beoy1p8stqk",
+          "front": {
+            "word": "skrev "
+          },
+          "back": {
+            "translation": "escreveu",
+            "sound": "iskriév",
+            "detail": ""
+          }
+        },
+        {
+          "id": "yn0amjj8ntp",
+          "front": {
+            "word": "abf Arbetarnas Bildningsförbund "
+          },
+          "back": {
+            "translation": "Associção educacional dos trabalhadores",
+            "sound": "arbietarnas bildninhis fórbund",
+            "detail": ""
+          }
+        },
+        {
+          "id": "9layooq6etc",
+          "front": {
+            "word": "igår"
+          },
+          "back": {
+            "translation": "ontem",
+            "sound": "igoor",
+            "detail": ""
+          }
+        },
+        {
+          "id": "llxcr1x7ys",
+          "front": {
+            "word": "fick"
+          },
+          "back": {
+            "translation": "pegou",
+            "sound": "fiick",
+            "detail": ""
+          }
+        },
+        {
+          "id": "3jzyo8udz23",
+          "front": {
+            "word": "samtal  "
+          },
+          "back": {
+            "translation": "chamar",
+            "sound": "samitall",
+            "detail": "pode ser ligação tbm"
+          }
+        },
+        {
+          "id": "ix84sjqpx5g",
+          "front": {
+            "word": "han "
+          },
+          "back": {
+            "translation": "ele",
+            "sound": "rã m",
+            "detail": ""
+          }
+        },
+        {
+          "id": "7l9u9821a8",
+          "front": {
+            "word": "erbjuder "
+          },
+          "back": {
+            "translation": "ofertas",
+            "sound": "iérbiuder",
+            "detail": ""
+          }
+        },
+        {
+          "id": "uc4hnazq0il",
+          "front": {
+            "word": "tjänst"
+          },
+          "back": {
+            "translation": "serviço",
+            "sound": "xieanst ",
+            "detail": ""
+          }
+        },
+        {
+          "id": "yimserikld",
+          "front": {
+            "word": "bransch"
+          },
+          "back": {
+            "translation": "indústria",
+            "sound": "bran xi",
+            "detail": "pode ser setor"
+          }
+        },
+        {
+          "id": "p4d91x5hrl",
+          "front": {
+            "word": "svårt "
+          },
+          "back": {
+            "translation": "difícil",
+            "sound": "isvoart",
+            "detail": ""
+          }
+        },
+        {
+          "id": "amubtkdv4ca",
+          "front": {
+            "word": "spännande "
+          },
+          "back": {
+            "translation": "excitante",
+            "sound": "speanandé",
+            "detail": ""
+          }
+        },
+        {
+          "id": "427sb39v79s",
+          "front": {
+            "word": "lära"
+          },
+          "back": {
+            "translation": "ensinar",
+            "sound": "léara",
+            "detail": ""
+          }
+        }
+      ]
+    }
+  },
+  "_persist": {
+    "version": -1,
+    "rehydrated": true
+  }
+}
